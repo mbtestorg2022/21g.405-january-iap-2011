@@ -41,12 +41,57 @@ Dieser Kurs ist ein Intensivkurs ist. Das bedeutet, dass von den Kursteilnehmern
 Benotung
 --------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Aktive Teilnahme am Unterricht | 25% |
-| Mündliches Referat und Interviews | 25% |
-| Schriftliche Hausaufgaben | 25% |
-| zwei Tests + Vokabeltests | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Aktive Teilnahme am Unterricht
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mündliches Referat und Interviews
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Schriftliche Hausaufgaben
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+zwei Tests + Vokabeltests
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Ein Hinweis
 -----------
